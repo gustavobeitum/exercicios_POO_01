@@ -21,7 +21,6 @@ public class Main {
             System.out.print("A palvara " + word.getWord() + " não é um palíndromo");
         }
 
-
         sc.close();
     }
 }
